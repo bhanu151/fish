@@ -13,8 +13,8 @@ bind -M insert \cf accept-autosuggestion
 alias v="nvim"
 alias p="python3"
 
-alias gulgula="ssh bhanu@gulgula"
-alias bebinca="ssh bhanups@bebinca"
+alias gulgula="ssh -X bhanu@gulgula"
+alias bebinca="ssh -X bhanups@bebinca"
 
 #==============================================================================
 # GLOBAL ENVIRONMENT VARIABLES
