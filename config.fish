@@ -12,15 +12,9 @@ bind -M insert \cf accept-autosuggestion
 #==============================================================================
 alias v="nvim"
 alias p="python3"
-alias gad="git add"
-alias gct="git commit"
-alias gph="git push"
-alias gpl="git pull"
-alias gss="git status"
-alias gdf="git diff"
-alias grm="git rm"
-alias glg="git log"
 
+alias gulgula="ssh bhanu@gulgula"
+alias bebinca="ssh bhanups@bebinca"
 
 #==============================================================================
 # GLOBAL ENVIRONMENT VARIABLES
