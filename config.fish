@@ -1,4 +1,4 @@
-#theme_gruvbox dark hard 
+
 set -g fish_key_bindings fish_vi_key_bindings
 
 #==============================================================================
@@ -6,6 +6,13 @@ set -g fish_key_bindings fish_vi_key_bindings
 #==============================================================================
 bind -M normal \cf accept-autosuggestion
 bind -M insert \cf accept-autosuggestion
+
+#==============================================================================
+# THEME SETTINGS
+#==============================================================================
+set -g theme_display_date no
+set -g theme_nerd_fonts yes
+set -g theme_color_scheme nord
 
 #==============================================================================
 # ALIASES
