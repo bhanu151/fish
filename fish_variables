@@ -2,6 +2,8 @@
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
 SETUVAR _fish_abbr_gad:git\x20add
+SETUVAR _fish_abbr_gbh:git\x20branch
+SETUVAR _fish_abbr_gck:git\x20checkout
 SETUVAR _fish_abbr_gct:git\x20commit\x20\x2dm
 SETUVAR _fish_abbr_gdf:git\x20diff
 SETUVAR _fish_abbr_gfh:git\x20fetch
@@ -10,6 +12,7 @@ SETUVAR _fish_abbr_gph:git\x20push
 SETUVAR _fish_abbr_gpl:git\x20pull
 SETUVAR _fish_abbr_grm:git\x20rm
 SETUVAR _fish_abbr_gss:git\x20status
+SETUVAR _fish_abbr_gtr:git\x20log\x20\x2d\x2dall\x20\x2d\x2ddecorate\x20\x2d\x2doneline\x20\x2d\x2dgraph
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7
