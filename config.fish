@@ -29,4 +29,6 @@ alias bebinca="ssh -X bhanups@bebinca"
 #fish_add_path ~/.local/bin/
 #fish_add_path ~/.cargo/bin/
 set PATH ~/.local/bin ~/.cargo/bin $PATH
+set TERMCMD alacritty
+set TERM alacritty
 

@@ -1,5 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export --path PYTHONPATH:/home/bhanu/moose_core_17_03_2022/_build/python/
+SETUVAR --export TERMCMD:alacritty
 SETUVAR __fish_initialized:3100
 SETUVAR _fish_abbr_gad:git\x20add
 SETUVAR _fish_abbr_gbh:git\x20branch
